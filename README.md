@@ -1,4 +1,4 @@
-# NLP_F22
+# nlp-f22
 Repo for Natural Language Processing with Representation Learning, Fall 2022
 ---
 
