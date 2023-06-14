@@ -1,5 +1,4 @@
-# nlp-f22
-Repo for Natural Language Processing with Representation Learning, Fall 2022
+# Repository for Natural Language Processing with Representation Learning, Fall 2022
 ---
 
 This is the repository for the final project for the course, creating a weakly-supervised model to obtain ESG sin/green scores based on Reddit posts about a company and SEC filings.
